@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Portfolio</title>
+    <style>
+        /* Add your CSS styles here */
+        body { font-family: Arial, sans-serif; }
+        .container { max-width: 800px; margin: auto; }
+        header, .about, .resume, .portfolio, .contact { margin-bottom: 40px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Your Name</h1>
+            <p>Your profession or tagline</p>
+        </header>
+        <section class="about">
+            <h2>About Me</h2>
+            <p>A short paragraph about yourself, your background, and your professional interests.</p>
+        </section>
+        <section class="resume">
+            <h2>Resume</h2>
+            <p>Details about your professional experience, skills, education, etc.</p>
+        </section>
+        <section class="portfolio">
+            <h2>Portfolio</h2>
+            <p>A list of projects you've worked on, with descriptions, outcomes, and links if applicable.</p>
+        </section>
+        <section class="contact">
+            <h2>Contact</h2>
+            <p>Your email address and links to your professional social media profiles.</p>
+        </section>
+    </div>
+</body>
+</html>
